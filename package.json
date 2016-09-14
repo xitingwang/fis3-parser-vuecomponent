@@ -1,0 +1,29 @@
+{
+  "name": "fis3-parser-vuecomponent",
+  "version": "0.0.1",
+  "description": "A parser plugin for fis3 to parser vue component.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xitingwang/fis3-parser-vuecomponent.git"
+  },
+  "keywords": [
+    "fis3",
+    "fis3-parser-vuecomponent",
+    "fis3-parser",
+    "vue",
+    "component"
+  ],
+  "dependencies": {
+    "de-indent": "^1.0.2",
+    "hash-sum": "^1.0.2",
+    "object-assign": "^4.1.0",
+    "parse5": "^2.1.5",
+    "vue-template-validator": "^1.1.5"
+  },
+  "author": "dw_wangchao1 <wangchao1@yy.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xitingwang/fis3-parser-vuecomponent/issues"
+  }
+}
